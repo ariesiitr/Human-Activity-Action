@@ -26,3 +26,9 @@ The pipeline of the model follows the Base-Deit-16 Model which is connected to S
 2. Relu Activation Function
 3. Dropout of 0.3 for Regularization
 4. Final Output Layer which outputs the probabilities of input to belong 101-Classes.
+
+## HyperParameters:
+1. Learning Rate of 0.0005.
+2. Learning Rate Scheduler which decreases the learning rate by the factor of 0.97 after every 3 epochs.
+3. Criterion Used is LabelSmoothingCross Entropy
+
