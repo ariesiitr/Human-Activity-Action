@@ -32,3 +32,10 @@ The pipeline of the model follows the Base-Deit-16 Model which is connected to S
 2. Learning Rate Scheduler which decreases the learning rate by the factor of 0.97 after every 3 epochs.
 3. Criterion Used is LabelSmoothingCross Entropy
 
+## References
+https://huggingface.co/docs/transformers/model_doc/vit<br>
+https://www.youtube.com/watch?v=Ssndsjh1Zqk<br>
+https://arxiv.org/pdf/2108.02432.pdf<br>
+https://arxiv.org/pdf/1611.05267.pdf<br>
+https://arxiv.org/pdf/2204.00452.pdf/<br>
+https://arxiv.org/pdf/1611.05267.pdf<br>
