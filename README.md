@@ -41,4 +41,4 @@ https://arxiv.org/pdf/2204.00452.pdf/<br>
 https://arxiv.org/pdf/1611.05267.pdf<br>
 ## Contributors
 #### [Ishaan Kumar](https://github.com/Darky-Boy)
-#### [Aman Aggarwal](https://github.com/Raplhbreaksgit-hub)
+#### [Aman Agrawal](https://github.com/Raplhbreaksgit-hub)
