@@ -1,6 +1,11 @@
-# ARIES-Project-
+# Team-Members-
+#### [Pranav Bhardwaj](https://github.com/Romsiter)
+#### [Ishaan Kumar](https://github.com/Darky-Boy)
+#### [Aman Agrawal](https://github.com/Raplhbreaksgit-hub)
+# Human-Action-Recognition-
 The Aim of Machine Learning Model is to detect various common Activities peformed by humans and classify these activities to their respective classes.
 this helps in improving the Robot-Human Interaction and also in Anomaly Detection.
+
 ### Link for Pretrained Model- 
 https://drive.google.com/drive/folders/1cwBD3hesGUJYjpKmbuGXOClhP7qo9O4u?usp=drive_link
 
@@ -39,6 +44,4 @@ https://arxiv.org/pdf/2108.02432.pdf<br>
 https://arxiv.org/pdf/1611.05267.pdf<br>
 https://arxiv.org/pdf/2204.00452.pdf/<br>
 https://arxiv.org/pdf/1611.05267.pdf<br>
-## Contributors
-#### [Ishaan Kumar](https://github.com/Darky-Boy)
-#### [Aman Agrawal](https://github.com/Raplhbreaksgit-hub)
+
